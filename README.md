@@ -7,4 +7,4 @@ Consists of :
   - short description about me
   - how to get in touch with me
 
-**Do visit the [site] (index.html)**
+**Do visit the [site] (https://cimacim.github.io/)**
